@@ -12,13 +12,13 @@ ${mail_login_page}  https://accounts.google.com/ServiceLogin?continue=https%3A%2
 ${admin_panel_page}  http://gr-api-qa.arabel.la/admin
 ${begin_web_text}  Welcome.
 @{gmail_login}  automation@arabel.la
-${office_admin_mail}  automation+gro183@ydtech.co
-${account_admin_gra}  automation+gra183@ydtech.co
-${doctor_mail}  automation+grd183@ydtech.co
+${office_admin_mail}  automation+gro184@ydtech.co
+${account_admin_gra}  automation+gra184@ydtech.co
+${doctor_mail}  automation+grd184@ydtech.co
 ${doctor_biography}  Biography
 ${doctor_education}  Education
 ${doctor_network}  Network 1
-${patient_email}  automation+grp183@ydtech.co
+${patient_email}  automation+grp184@ydtech.co
 ${practice_name}  AutoTest182
 ${account_page_signup_button}  sign up
 ${medical_spec}  Psychiatry
